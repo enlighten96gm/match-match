@@ -1,0 +1,16 @@
+:root {
+  --text: #222;
+}
+
+.sytyl {
+  font-size: 10px;
+  color: pink;
+}
+
+body {
+  margin: 0;
+  background-color: peachpuff;
+  color: var(--text);
+}
+
+/*# sourceMappingURL=main.css.map*/
